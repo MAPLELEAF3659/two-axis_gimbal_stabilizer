@@ -1,0 +1,1 @@
+gcc -o gimbal gimbal.c -lpigpio -lrt -lm
