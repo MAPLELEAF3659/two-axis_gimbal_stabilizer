@@ -1,6 +1,6 @@
 # 2-axis Gimbal Stabilizer
 
-This project is an 2-axis gimbal stabilizer for `Raspberry Pi 4B` that using custom `MPU6050` Linux kernel driver and `SG90` controller. 
+This project is an 2-axis gimbal stabilizer for `Raspberry Pi 4B` using custom `MPU6050` Linux kernel driver and `SG90` controller. 
 
 ## Cross-compile
 
